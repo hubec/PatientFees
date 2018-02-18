@@ -19,6 +19,7 @@ public:
 	int getDaysInHospital();
 	void setTotalCharges(int charges);
 	int getTotalCharges();
+	double //function to count days and calculate the final bill
 	void print();
 private:
 	string name;
