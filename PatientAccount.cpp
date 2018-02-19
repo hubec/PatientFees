@@ -4,7 +4,7 @@ using namespace std;
 
 PatientAccount::PatientAccount()
 {
-	name = "";
+	name = ""; // looks good guessing types were left out intentionally 
 	idNumber = 0;
 	charges = 0;
 	numberDays = 0;
